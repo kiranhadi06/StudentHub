@@ -10,8 +10,8 @@ Features:
 - Swing GUI interface
 
 Technologies:
--Java
--Swing
--Collections
--File I/0
--OOP principles
+- Java
+- Swing
+- Collections
+- File I/O
+- OOP principles
