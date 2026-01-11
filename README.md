@@ -1,5 +1,6 @@
 # StudentHub
-A Java desktop application that stimulates a student hub system.
+A Java desktop application that simulates a student hub by tracking student activity, location (Cafe, Lounge, Study Room), and orders, with support for sorting, data persistence, and a Swing-based GUI.
+
 
 ## Features:
 - Queue-based student management
