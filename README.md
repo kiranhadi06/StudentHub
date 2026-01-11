@@ -1,7 +1,7 @@
 # StudentHub
 A Java desktop application that stimulates a student hub system.
 
-##Features:
+## Features:
 - Queue-based student management
 - Grouping students by area (Cafe, Lounge, Study Room)
 - Sorting bby name and bill amount using lambda expressions
@@ -9,7 +9,7 @@ A Java desktop application that stimulates a student hub system.
 - File saving and loading
 - Swing GUI interface
 
-##Technologies:
+## Technologies:
 - Java
 - Swing
 - Collections
