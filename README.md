@@ -15,3 +15,9 @@ Technologies:
 - Collections
 - File I/O
 - OOP principles
+
+## How to Run 
+1. Clone or download this repository
+2. Open the project in a Java IDE (IntelliJ, Eclipse, or VS code)
+3. Make sure Java is installed (I reccomend JDK 17+)
+4. Run the StudentHubGUI class
